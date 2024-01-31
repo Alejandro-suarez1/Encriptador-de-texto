@@ -84,9 +84,9 @@ body {
 }
 
 .contenedor {
-  display: flex;
-  align-items: center;
-  gap: 320px;
+display: flex;
+gap: 200px;
+justify-content: center;
 }
 
 .textarea {
@@ -103,7 +103,6 @@ body {
 .miTextarea {
   width: 300px; 
   resize: none; 
-  margin-left: 300px;
 }
 
 .miDiv {
